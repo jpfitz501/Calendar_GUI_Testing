@@ -85,7 +85,7 @@ public class data_entry extends AppCompatActivity {
                 }
                 data_display += "\n";
             }
-            user_data_text.setText("workout data ->" + data_display);
+            user_data_text.setText("workout data  ->" + data_display);
         }
 
     }
