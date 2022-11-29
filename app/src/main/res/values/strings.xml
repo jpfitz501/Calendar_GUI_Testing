@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calendar_GUI_Testing</string>
+
+    <string-array name="workout_types">
+        <item>Select Workout Type-</item>
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Bench Press</item>
+        <item>Bicep Curl</item>
+        <item>Sit Up</item>
+
+    </string-array>
+
+</resources>
