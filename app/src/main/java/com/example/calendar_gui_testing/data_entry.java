@@ -86,6 +86,7 @@ public class data_entry extends AppCompatActivity {
                 data_display += "\n";
             }
             user_data_text.setText("workout data  ->" + data_display);
+            System.out.println("Data displayed successfully!");
         }
 
     }
